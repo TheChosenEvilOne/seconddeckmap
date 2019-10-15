@@ -1,0 +1,11 @@
+Create the new z-level and link the station level to the new z-level by executing this SDQL2 query:
+CALL add_new_zlevel("Deck 2", ['Station':1,'Down':-11,'Baseturf':/turf/open/openspace]) ON /datum/controller/subsystem/mapping; UPDATE /datum/space_level WHERE z_value == 2 SET traits = ["Linkage": "Cross", "Station":1, "Up":11]
+
+Then upload the map as a template with the following verb:
+Map-Template---Upload
+
+Jump to the following coordinates with the following verb:
+Jump-to-Coordinate 112 113 13
+
+And place the map template with the following verb, the map template is always at the end of the list:
+Map-template---Place
