@@ -9,3 +9,8 @@ Jump-to-Coordinate 112 113 13
 
 And place the map template with the following verb, the map template is always at the end of the list:
 Map-template---Place
+
+Now locate the multi-deck power adapter, it is north and above of the atmos incinerator.
+Place a copy of it under the one on top and call find_relays and refresh on the TOP one
+
+Now you can put stairs on the BOTTOM z-level, basically you just have to have openspace above it and an open turf in front of it above it.
