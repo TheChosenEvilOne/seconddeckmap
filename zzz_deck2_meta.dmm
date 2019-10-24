@@ -818,7 +818,7 @@
 /turf/open/floor/plasteel,
 /area/security/prison)
 "cj" = (
-/obj/machinery/atmospherics/pipe/manifold/supply/visible{
+/obj/machinery/atmospherics/pipe/manifold/supply/hidden{
 	dir = 4
 	},
 /turf/open/floor/plasteel,
@@ -1732,7 +1732,7 @@
 	},
 /area/maintenance/port)
 "eT" = (
-/obj/machinery/atmospherics/pipe/manifold/supply/visible{
+/obj/machinery/atmospherics/pipe/manifold/supply/hidden{
 	dir = 4
 	},
 /turf/open/floor/wood,
@@ -1752,7 +1752,7 @@
 /obj/machinery/light{
 	dir = 4
 	},
-/obj/machinery/atmospherics/pipe/manifold/supply/visible{
+/obj/machinery/atmospherics/pipe/manifold/supply/hidden{
 	dir = 4
 	},
 /turf/open/floor/plasteel/dark,
@@ -2031,7 +2031,7 @@
 /obj/effect/turf_decal/stripes/line{
 	dir = 1
 	},
-/obj/machinery/atmospherics/pipe/manifold/supply/visible,
+/obj/machinery/atmospherics/pipe/manifold/supply/hidden,
 /turf/open/floor/plasteel/dark,
 /area/security/warden)
 "fH" = (
@@ -2122,7 +2122,7 @@
 	name = "Brig Control";
 	req_access_txt = "3"
 	},
-/obj/machinery/atmospherics/pipe/manifold/supply/visible{
+/obj/machinery/atmospherics/pipe/manifold/supply/hidden{
 	dir = 4
 	},
 /turf/open/floor/plasteel,
@@ -2169,7 +2169,7 @@
 	},
 /area/maintenance/port/aft)
 "fW" = (
-/obj/machinery/atmospherics/pipe/manifold/supply/visible,
+/obj/machinery/atmospherics/pipe/manifold/supply/hidden,
 /turf/open/floor/plasteel,
 /area/security/brig)
 "fX" = (
