@@ -5,7 +5,7 @@ Then upload the map as a template with the following verb:
 Map-Template---Upload
 
 Jump to the following coordinates with the following verb:
-Jump-to-Coordinate 112 113 13
+Jump-to-Coordinate 112 123 13
 
 And place the map template with the following verb, the map template is always at the end of the list:
 Map-template---Place
